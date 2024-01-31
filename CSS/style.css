@@ -28,7 +28,7 @@ body{
 .container-inputs input {
     height: 35px;
     padding-left: 10px;
-    border: 1px solid black;
+    border: 1px solid rgb(108, 108, 247);
     border-radius: 2px;
     outline: none;
 }
